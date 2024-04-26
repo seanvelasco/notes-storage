@@ -5,3 +5,5 @@ blog
 .png
 .jpg
 .webp
+.DS_Store
+*.sh
