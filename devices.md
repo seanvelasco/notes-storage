@@ -19,8 +19,8 @@
 	- 187g
 - Valve Steam Deck OLED
 	- 7.4-inch OLED 600 nits 90Hz display (1280 x 800)
-	- AMD Zen 2 4-core 8-thread 2.4-3.5GHz APU (AMD Custom API 0932)
-	- AMD 8 RDNA 2 compute unites 1.6GHz
+	- AMD Zen 2 4-core 8-thread 2.4-3.5GHz APU (AMD Custom APU 0932)
+	- AMD 8 RDNA 2 compute units 1.6GHz
 	- 16GB LPDDR5 memory
 	- 512GB NVMe memory
 	- Wi‑Fi 6E
