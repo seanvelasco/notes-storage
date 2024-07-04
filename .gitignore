@@ -1,9 +1,10 @@
 .obsidian
 private
 blog
-.jpeg
-.png
-.jpg
-.webp
+*.jpeg
+*.png
+*.jpg
+*.webp
 .DS_Store
 *.sh
+*.png
