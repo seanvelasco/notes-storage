@@ -12,3 +12,19 @@ A text, a button, or an image is a kind of view. And some views can contain othe
 | `<Image>`                 | `<ImageView>`  | `<UIImageView>`  | `<img>`                 | Displays different types of images                                                                    |
 | `<ScrollView>`            | `<ScrollView>` | `<UIScrollView>` | `<div>`                 | A generic scrolling container that can contain multiple components and views                          |
 | `<TextInput>`             | `<EditText>`   | `<UITextField>`  | `<input type="text">`   | Allows the user to enter text                                                                         |
+
+## Core Components
+
+Button
+
+Flatlist
+
+Image
+
+Pressable
+
+ScrollView
+
+Text
+
+View

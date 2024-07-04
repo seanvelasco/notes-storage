@@ -8,7 +8,7 @@ w.Write([]byte("Invalid URL"))
 
 `http.Erro(w, "Invalid URL", http.StatusBadRequest)`
 
-This function sets ther status code of the reponse to 5400 and writes the provided error mesage to the response body.
+This function sets ther status code of the reponse to 400 and writes the provided error mesage to the response body.
 
 It is a convenience function that combines setting the status code and writing the error message in one call.
 

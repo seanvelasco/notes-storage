@@ -1,0 +1,40 @@
+- Scott Pilgrim Versus The World
+- Fight Club
+- The Godfather
+- The Godfather II
+- The Irishman
+- Goodfellas
+- The Sopranos
+- Casino
+- Crazy Rich Asians
+- 21 Jump Street
+- 22 Jump Street
+- Which Chicks
+- Parasite
+- Alone/Together
+- Mean Girls
+- The Devil Wears Prada
+- Fan Girl
+- Inception
+- Interstellar
+- Bad Genius
+- The Wolf of Walls Street
+- Guardians of the Galaxy
+- Guardians of the Galaxy Vol. 3
+- Guardians of the Galaxy Vol. 3
+- The Great Gatsby
+- Catch Me If You Can
+- American Psycho
+- Fight Club
+- Shutter Island
+- Don't Look Up
+- Spirited Away
+- Your Name
+- Honor Thy Father
+- Seklusyon
+- Zodiac
+- Old
+- Smile
+- Dunkirk
+- Everything, Everywhere, All At Once
+- The Hangover trilogy

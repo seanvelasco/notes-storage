@@ -1,0 +1,29 @@
+
+- Apple MacBook Pro (2020)
+	- 13.3-inch IPS 500 nits 60Hz display (2560 x 1600)
+	- M1 chip 8-core CPU, 8-core GPU, 16-core Neural Engine
+	- 8GB memory
+	- 256GB storage
+	- Wi-Fi 6
+	- Bluetooth 5
+	- 1.56cm x  30.41cm x 21.24cm
+	- 1.4 kg
+- Apple iPhone 15 Pro
+	- 6.1-inch OLED 1000 nits 120Hz display (2556 x 1179)
+	- A17 Pro chip 6-core CPU, 6-core GPU, 16-core Neural Engine
+	- 8GB memory
+	- 128GB storage
+	- Wi‑Fi 6E
+	- Bluetooth 5.3
+	- 146.6mm x 70.6mm x 8.25mm
+	- 187g
+- Valve Steam Deck OLED
+	- 7.4-inch OLED 600 nits 90Hz display (1280 x 800)
+	- AMD Zen 2 4-core 8-thread 2.4-3.5GHz APU (AMD Custom APU 0932)
+	- AMD 8 RDNA 2 compute units 1.6GHz
+	- 16GB LPDDR5 memory
+	- 512GB NVMe memory
+	- Wi‑Fi 6E
+	- Bluetooth 5.3
+	- 298mm x 117mm x 49mm
+	- 640g
