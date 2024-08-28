@@ -1,5 +1,3 @@
-
-
 the history of western philosophy
 
 summa theologica
@@ -29,6 +27,7 @@ faust
 
 the great gatsby
 the book thief
+
 ### Textbooks
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann

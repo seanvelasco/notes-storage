@@ -1,10 +1,9 @@
-sean.app
-sean.ph
-seanvelasco.com
-seanvelasco.net
-usky.app
-baybay.in
-sin.ag
-sinag.xyz
-sinag.app
-sinag.ai
+-   [sean.app](https://sean.app)
+-   [sean.ph](https://sean.ph)
+-   [seanvelasco.com](https://seanvelasco.com)
+-   [usky.app](https://usky.app)
+-   [baybay.in](https://baybay.in)
+-   [sin.ag](https://sin.ag)
+-   [sinag.ai](https://sinag.ai)
+-   [sinag.app](https://sinag.app)
+-   [sinag.xyz](https://sinag.xyz)
