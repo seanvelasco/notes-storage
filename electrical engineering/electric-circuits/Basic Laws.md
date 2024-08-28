@@ -55,18 +55,30 @@ Elements are in series when they are chain-connected or connected sequentially, 
 Elements are in parallel are connected to the same pair of terminals.
 
 Elements may be connected in a way that are neither in series nor in parallel
-### KCL
+### Kirchhoff’s Current Law (KCL)
 
 > Kirchhoff’s current law (KCL) states that the algebraic sum of currents entering a node or a closed boundary is zero.
 
-The sum of the currents entering a node is equal to the sum of the cur- rents leaving the node.
-### KVL
+The sum of the currents entering a node is equal to the sum of the currents leaving the node.
+
+Ali Hajimiri: the instantaneous current at one side of the component is the same on the other side of the component.
+### Kirchhoff’s voltage law (KVL)
 
 Kirchhoff’s second law is based on the principle of conservation of energy:
 
-> Kirchhoff’s voltage law (KVL) states that the algebraic sum of all volt- ages around a closed path (or loop) is zero.
+> Kirchhoff’s voltage law (KVL) states that the algebraic sum of all voltages around a closed path (or loop) is zero.
 
+Ali Hajimiri: comes from the Faraday Law. If there is no magnetic flux, summation is zero - no changing magnetic flux
 ### Wye-Delta Transformation
 
+$$ \int $$
 
+
+
+
+
+
+
+
+### Passivity
 

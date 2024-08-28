@@ -1,4 +1,3 @@
-
 Nodal Analysis is a systematic application of KCL. Mesh analysis is a systemic application of KVL.
 
 WE can analyze linear circuit by obtaining a set of simultaneous equations that are then solved to obtain the required values of current of voltage.
