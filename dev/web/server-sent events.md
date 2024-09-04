@@ -1,13 +1,9 @@
-
-
-
 Client-side implementation for server-sent events are almost identical to websockets. However, unlike websockets, server-sent events are a one-way connection.
-
 
 ### Server
 
-
 ### Client
+
 To open a connection to the server to begin receiving recents, create an EventSource object
 
 ```javascript
@@ -24,7 +20,7 @@ sse.onmessage = (event) => {
 // event with field set to "notification"
 sse.addEventListener("notification", (event) => {
 	console.log(event.event)
-	
+
 	const payload = JSON.parse(event.data)
 })
 
@@ -32,10 +28,7 @@ sse.addEventListener("notification", (event) => {
 sse.onerror = (error) => {
 	console.error(error)
 }
-
-
 ```
-
 
 ### Event Stream format
 
@@ -47,16 +40,13 @@ A colon as the first character of a line is a comment and is ignored.
 
 ### Fields
 
-- event - string key used for dispatching events
-- data
-- id
-- retry
-
-
-
+-   event - string key used for dispatching events
+-   data
+-   id
+-   retry
 
 links
-- AI
 
+-   AI
 
 Back-pressure and cancellation with streams

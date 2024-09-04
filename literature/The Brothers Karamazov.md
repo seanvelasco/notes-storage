@@ -1,4 +1,3 @@
-
 ##### Book 1: The Story of a Certain Little Family
 
 1. Fyodor Pavlovich Karamazov
@@ -31,4 +30,4 @@ He has an affinity to the Church.
 
 6. The Elders
 
-Zosima 
+Zosima

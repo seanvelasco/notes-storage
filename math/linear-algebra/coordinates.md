@@ -1,7 +1,6 @@
-
 coordinate spaces
 
-IR^2 real coordinate space or 2-dimensional space. 
+IR^2 real coordinate space or 2-dimensional space.
 all possible real-valued 2-tuple
 
 ##### adding vectors
@@ -21,6 +20,7 @@ $$
 2
 \end{bmatrix}
 $$
+
 ##### multiplying a vector by a scalar
 
 $$
@@ -39,6 +39,4 @@ $$
 scalar scales up a vector (increasing its magnitude)
 multiplying by negative makes a negative opposite
 
-
 ### Linear combination
-
